@@ -6,6 +6,7 @@
 [![Coverage Status](https://codecov.io/github/kubernetes/dashboard/coverage.svg?branch=master)](https://codecov.io/github/kubernetes/dashboard?branch=master)
 [![GitHub release](https://img.shields.io/github/release/kubernetes/dashboard.svg)](https://github.com/kubernetes/dashboard/releases/latest)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://github.com/kubernetes/dashboard/blob/master/LICENSE)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fgodeepakm%2Fdashboard.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fgodeepakm%2Fdashboard?ref=badge_shield)
 
 Kubernetes Dashboard is a general purpose, web-based UI for Kubernetes clusters. It allows users to manage applications running in the cluster and troubleshoot them, as well as manage the cluster itself.
 
@@ -73,3 +74,6 @@ Participation in the Kubernetes community is governed by the [Kubernetes Code of
 
 ----
 _Copyright 2019 [The Kubernetes Dashboard Authors](https://github.com/kubernetes/dashboard/graphs/contributors)_
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fgodeepakm%2Fdashboard.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fgodeepakm%2Fdashboard?ref=badge_large)
